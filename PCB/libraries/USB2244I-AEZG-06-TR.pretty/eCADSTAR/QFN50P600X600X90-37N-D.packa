@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "USB2244I-AEZG-06-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-07-21-11:06:49)
+    (mountForm default
+        (footprintRef "QFN50P600X600X90-37N-D")
+        (spec "System")
+    )
+)

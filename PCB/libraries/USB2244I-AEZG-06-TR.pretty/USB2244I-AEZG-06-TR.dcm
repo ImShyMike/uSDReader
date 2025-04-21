@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB2244I-AEZG-06-TR
+D USB Interface IC USB 2.0 SD/MMC Flash Media Contrl , 3V to 3.6V ,135mA , -40C +85C
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en562093
+$ENDCMP
+#
+#End Doc Library

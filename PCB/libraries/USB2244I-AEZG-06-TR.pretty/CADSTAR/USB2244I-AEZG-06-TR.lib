@@ -1,0 +1,16 @@
+.USB2244I-AEZG-06-TR :1 ;USB Interface IC USB 2.0 SD/MMC Flash Media Contrl , 3V to 3.6V ,135mA , -40C +85C
+QFN50P600X600X90-37N-D
+*STM IC
+*NGS
+*PLB 1="LED" 2="USB+" 3="USB-" 4="SD_D1" 5="SD_D0" 6="VDD33_1" 7="SD_D7" 8="SD_D6" 9="SD_CLK" 10="SD_D5" 11="SD_CMD" 12="NC_1" 13="VDD18" 14="VDD33_2" 15="NC_2" 16="NC_3" 17="NC_4" 18="RESET_N" 19="NC_5" 20="SD_D4" 21="CRD_PWR" 22="VDD33_3" 23="SD_D3" 24="NC_6" 25="SD_D2" 26="SD_NCD" 27="RXD/SDA" 28="TEST" 29="NC_7" 30="SD_WP" 31="TXD/SCK" 32="XTAL2" 33="XTAL1 (CLKIN)" 34="VDD18PLL" 35="RBIAS" 36="VDDA33" 37="VSS"
+*MXP 37
+*DFN USB2244I-AEZG-06-TR
+~!Mouser Part Number (579-USB2244IAEZG06TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/USB2244I-AEZG-06-TR?qs=8jfIC9vqKDsAu01KH5BS1Q%3D%3D)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (USB2244I-AEZG-06-TR)
+~!Link Datasheet (http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en562093)
+~!Height (0.9mm)
+~!3D_Model (USB2244I-AEZG-06-TR)
+USB2244I-AEZG-06-TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 

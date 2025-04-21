@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESDDD")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPD2EUSB30DRTR.pretty")(options "")(descr ""))
+  (lib (name "USBBB")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB2244I-AEZG-06-TR.pretty")(options "")(descr ""))
+)

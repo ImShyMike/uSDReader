@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB2244I_AEZG_06_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "USB2244I-AEZG-06-TR" (!) = "", "QFN50P600X600X90-37N-D", "Quad Flat No-Lead", "579-USB2244IAEZG06TR", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/USB2244I-AEZG-06-TR?qs=8jfIC9vqKDsAu01KH5BS1Q%3D%3D", "USB Interface IC USB 2.0 SD/MMC Flash Media Contrl , 3V to 3.6V ,135mA , -40C +85C", "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en562093", "0.9 mm"
+END_PART
+
+END.
