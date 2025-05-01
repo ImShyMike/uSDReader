@@ -5644,6 +5644,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C5182099"
+			(at 67.31 67.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "952e8aab-4db6-415e-8840-e0ff17665ed9")
 		)
@@ -6225,7 +6234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "2pf"
+		(property "Value" "Ceramic 12 pF ± 5%"
 			(at 54.61 129.54 90)
 			(effects
 				(font
@@ -6388,6 +6397,15 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 54.61 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C5393"
 			(at 54.61 44.45 0)
 			(effects
 				(font
@@ -7000,7 +7018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "2pf"
+		(property "Value" "Ceramic 12 pF ± 5%"
 			(at 54.61 121.92 90)
 			(effects
 				(font
@@ -7095,6 +7113,15 @@
 			)
 		)
 		(property "Description" "Micro SD Card Socket with one card detection pin"
+			(at 243.84 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C113206"
 			(at 243.84 90.17 0)
 			(effects
 				(font
@@ -7868,6 +7895,15 @@
 			)
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+			(at 59.69 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C2965580"
 			(at 59.69 125.73 0)
 			(effects
 				(font
